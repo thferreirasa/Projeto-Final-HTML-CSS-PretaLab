@@ -6,7 +6,6 @@
 
 #menu {
     background-color: #BE89CB;
-    ;
 }
 
 #menu ul {
@@ -112,7 +111,7 @@
 
 #portfolio {
     background-color: #EDEAEA;
-    height: 601px;
+    height: 520px;
     display: flex;
     flex-direction: column;
 }
