@@ -23,7 +23,6 @@ Link do Protótipo:
 Link do Projeto Final:
 
 - [link do projeto final](https://thais-curriculo.netlify.app/)
-<br>
 
 ---
 
